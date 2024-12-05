@@ -1,0 +1,19 @@
+#name: TempRank
+name: RegisterCommands
+version: 1.0
+author: MasterV
+main: me.Mastervrunner.RegisterCommands.Main
+description: Registering-Commands
+
+commands:
+   RegCommands:
+      description: Get 'Em Commands registered bro
+      usage: /yourCommandHere
+   ele:
+      description: Select your element
+   shop:
+      description: Open the shop!
+   Ele:
+      description: Select your element
+   Shop:
+      description: Open the shop!
